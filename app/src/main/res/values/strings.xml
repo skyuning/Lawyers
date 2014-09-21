@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lawyer</string>
+    <string name="start_tips_1">私人律师</string>
+    <string name="start_tips_2">让您时刻处于合法状态</string>
+    <string name="login">登录</string>
+    <string name="free_ask">免费提问</string>
+    <string name="contract_check">合同审核</string>
+    <string name="expose_platform">曝光平台</string>
+
+</resources>

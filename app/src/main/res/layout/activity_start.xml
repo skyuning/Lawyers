@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/activity_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/start_tv_tips_2"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        android:text="@string/start_tips_1" />
+
+    <TextView
+        android:id="@+id/start_tv_tips_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/white"
+        android:text="@string/start_tips_2"
+
+        />
+
+</RelativeLayout>
